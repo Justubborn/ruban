@@ -1,0 +1,10 @@
+{
+  "db.type": "mssql",
+  "db.port": 3000,
+  "db.host": "127.0.0.1",
+  "db.name": "e_health_v1",
+  "db.username": "sa",
+  "db.password": "password",
+  "gen.path":"D:/",
+  "org_id": "62861515efc975c8eafa4796"
+}
